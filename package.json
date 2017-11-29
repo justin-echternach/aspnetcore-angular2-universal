@@ -1,6 +1,6 @@
 {
-  "name": "angular4-aspnetcore-universal",
-  "version": "1.0.0-rc3",
+  "name": "ppds-admin-universal",
+  "version": "0.1",
   "scripts": {
     "lint": "tslint -p tsconfig.json",
     "test": "npm run build:vendor && karma start ClientApp/test/karma.conf.js",
